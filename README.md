@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthewjchin
 - 👀 I’m interested in data analytics, data science, and machine learning. 
-- 🌱 I’m currently learning R, MySQL, and deep learning tools. 
+- 🌱 I’m currently learning AI and Deep Learning libraries and tools.  
 - 💞️ I’m looking to collaborate on any open-source projects relaterd to sports analytics and big data.
 - 📫 Follow me on Twitter [@matthewjchin](https://twitter.com/matthewjchin) and Instagram [@matthewjchin](https://www.instagram.com/matthewjchin/)
 
