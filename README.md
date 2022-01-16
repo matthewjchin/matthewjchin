@@ -8,7 +8,10 @@
 - Questions? Email me at <mattchin813@gmail.com>
 - My recent project I have been working on in my personal time involves baseball statistics and Sabermetrics, which you can find [here](https://github.com/matthewjchin/baseballstats).
 
-<!---
-matthewjchin/matthewjchin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+I am currently a first-year graduate student at [Golden Gate University](www.ggu.edu), studying in the MS Business Analytics program, having started in September 2021.
+I graduated from the [University of San Francisco (USF)](www.usfca.edu) in May 2021 with a Bachelor of Science (BS) in Mathematics with a minor in Computer Science. 
+
+My previous experience includes a data science internship, a database developer internship helping to create a proof of concept for inventory, four years of help desk technician work at the USF's Information Technology Services, and tutoring USF undergraduate students in Pre-Calculus and Calculus. 
+
