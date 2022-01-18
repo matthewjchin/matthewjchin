@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Chin (@matthewjchin)
 - 👀 I’m interested in business analytics, data science, and machine learning. 
-- 🌱 I’m currently learning AI and Deep Learning libraries, tools, and statistical packages and concepts.  
+- 🌱 I’m currently learning AI and Deep Learning libraries, tools, and statistical packages and concepts. Also working on R and Draw.io.
 - 💞️ I’m looking to collaborate on any open-source projects related to sports, finance, and data visualization. 
 - 📫 Follow me on Twitter [@matthewjchin](https://www.twitter.com/matthewjchin) and Instagram [@matthewjchin](https://www.instagram.com/matthewjchin/). 
 - Add me on LinkedIn at https://www.linkedin.com/in/matthew-j-chin/
