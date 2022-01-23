@@ -11,7 +11,7 @@
 
 
 I am currently a first-year graduate student at [Golden Gate University](https://www.ggu.edu/), studying in the Master of Science (MS) in Business Analytics program, having started in September 2021.
-I graduated from the [University of San Francisco (USF)](https://www.usfca.edu/) in May 2021 with a Bachelor of Science (BS) in Mathematics with a minor in Computer Science. 
+I graduated from the [University of San Francisco (USF)](https://www.usfca.edu/) in May 2021 with a Bachelor of Science (BS) in Mathematics with a minor in Computer Science, having finished in May 2021. 
 
 My previous experience includes a data science internship, a database developer internship helping to create a proof of concept for inventory, four years of help desk technician work at the [USF's Information Technology Services](https://myusf.usfca.edu/its), and tutoring for the [USF Mathematics and Statistics Department](https://myusf.usfca.edu/arts-sciences/mathematics) for undergraduate students in Pre-Calculus and Calculus I. 
 
