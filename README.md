@@ -6,6 +6,7 @@
 - Follow me on Twitter [@matthewjchin](https://www.twitter.com/matthewjchin) and Instagram [@matthewjchin](https://www.instagram.com/matthewjchin/). 
 - View my website at https://matthewjchin.wordpress.com/
 - My recent project I have been working on in my personal time involves baseball statistics and Sabermetrics, which you can find [here](https://github.com/matthewjchin/baseballstats).
+- Other projects' details can be seen [at my website](https://matthewjchin.wordpress.com/personal-projects/).
 
 I am currently a first-year graduate student at [Golden Gate University](https://www.ggu.edu/), studying in the MS in Business Analytics program, having started in September 2021. 
 I graduated from the [University of San Francisco](https://www.usfca.edu/) with a BS in Mathematics and a minor in Computer Science. 
