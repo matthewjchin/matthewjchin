@@ -8,7 +8,7 @@
 - My recent project I have been working on in my personal time involves baseball statistics and Sabermetrics, which you can find [here](https://github.com/matthewjchin/baseballstats).
 - Other projects' details can be seen [at my website](https://matthewjchin.wordpress.com/personal-projects/).
 
-I am currently a first-year graduate student at [Golden Gate University](https://www.ggu.edu/), studying in the MS in Business Analytics program, having started in September 2021. 
+I am a graduate student at [Golden Gate University](https://www.ggu.edu/), studying for an MS in Business Analytics, having begun in September 2021. 
 I graduated from the [University of San Francisco](https://www.usfca.edu/) with a BS in Mathematics and a minor in Computer Science. 
 
 My previous experience includes a data science internship, four years of help desk technician work at the [USF's Information Technology Services](https://myusf.usfca.edu/its), and tutoring for the [USF Mathematics and Statistics Department](https://myusf.usfca.edu/arts-sciences/mathematics) for undergraduate students in Pre-Calculus and Calculus I. 
