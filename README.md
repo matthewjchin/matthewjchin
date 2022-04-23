@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Matthew! 
-- 👀 I’m interested in business analytics, data science, data visualization, and machine learning. 
-- 🌱 I’m currently learning [R](https://www.r-project.org/), [Draw.io](https://drawio-app.com/), a Google-powered application for BI/programming flowcharting, [MySQL](https://www.mysql.com/),and [Microsoft Power BI](https://powerbi.microsoft.com/en-us/).
-- 💞️ I’m looking to collaborate on any open-source projects related to sports, finance, and data visualization. 
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/)! You can also [email me](<mailto:mattchin813@gmail.com>).  Happy to connect with you to share interests, research, or potential internship and employment opportunities. I enjoy data visualization and analytics, particularly in sports, sentiment analysis, and finances, among other fields. 
+- 👀 I’m interested in business analytics, data science, model building, and machine learning. 
+- 🌱 I’m currently learning [R](https://www.r-project.org/), [MySQL](https://www.mysql.com/), [Microstrategy](https://www.microstrategy.com/en), and [Microsoft Power BI](https://powerbi.microsoft.com/en-us/).
+- 💞️ I’m currently lookiing for an internship or full-time opportunity in business analytics or data science. In particular, my interests include data visualization and analytics, particularly in sports, sentiment analysis, and finances, among other fields. 
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/)! You can also [email me](<mailto:mattchin813@gmail.com>).  Happy to connect with you to share interests, research, or potential internship and employment opportunities. 
 - Follow me on Twitter [@matthewjchin](https://www.twitter.com/matthewjchin) and Instagram [@matthewjchin](https://www.instagram.com/matthewjchin/). 
 - View my website at https://matthewjchin.wordpress.com/
 - My recent project I have been working on in my personal time involves baseball statistics and Sabermetrics, which you can find [here](https://github.com/matthewjchin/baseballstats). More will be added soon. 
