@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Matthew! 
 - 👀 I’m interested in business analytics, data science, model building, and machine learning. 
 - 🌱 I’m currently learning [R](https://www.r-project.org/), [MySQL](https://www.mysql.com/), [Microstrategy](https://www.microstrategy.com/en), and [Microsoft Power BI](https://powerbi.microsoft.com/en-us/).
-- 💞️ Currently looking for an internship or full-time opportunity in business analytics or data science. In particular, my interests are data visualization and analytics, particularly in sports, sentiment analysis, and finances, among other fields. 
+- 💞️ Currently looking for an internship or full-time opportunity in business analytics or data science. In particular, my interests are data visualization and analytics in sports, sentiment analysis, or finance, among other fields. 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/)! Happy to connect with you to share interests, research, or potential internship and employment opportunities. 
-- Follow me on Twitter [@matthewjchin](https://www.twitter.com/matthewjchin) and Instagram [@matthewjchin](https://www.instagram.com/matthewjchin/). 
-- View my website at https://matthewjchin.wordpress.com/
-- My recent project I have been working on in my personal time involves baseball statistics and Sabermetrics, which you can find [here](https://github.com/matthewjchin/baseballstats). More will be added soon. 
+- Follow me on Twitter [@matthewjchin](https://www.twitter.com/matthewjchin) and Instagram [@matthewjchin](https://www.instagram.com/matthewjchin/), or check out my website at https://matthewjchin.wordpress.com/
+- My recent project I have been working on in my personal time involves baseball statistics and Sabermetrics, which you can find [here](https://github.com/matthewjchin/baseballstats). More will be added soon with regards to different kinds of data science topics. 
 - Other projects' details can be seen [at my website](https://matthewjchin.wordpress.com/personal-projects/) or in this repository.
 
 I am currently a graduate student at [Golden Gate University](https://www.ggu.edu/), studying for an MS in Business Analytics. 
