@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matthew! 
 - 👀 I’m interested in business analytics, data science and machine learning, and data visualization. 
-- 🌱 I’m currently learning [R](https://www.r-project.org/), [MySQL](https://www.mysql.com/), [Microstrategy](https://www.microstrategy.com/en), and [Microsoft Power BI](https://powerbi.microsoft.com/en-us/).
-- 💞️ Currently looking for an internship or full-time opportunity in business analytics or data science. In particular, my interests are data visualization and analytics in sports, sentiment analysis, or finance, among other fields. 
+- 🌱 I’m currently learning [R](https://www.r-project.org/) and Python libraries such as Keras, TensorFlow, and Scikit-learn.
+- 💞️ Currently looking for full-time opportunities in business analytics or data science, either of which focused on analytics.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/)! Happy to connect to share interests or opportunities. 
 - Follow me on Twitter [@matthewjchin](https://www.twitter.com/matthewjchin) and on Instagram [@matthewjchin](https://www.instagram.com/matthewjchin/). Check out my website at https://matthewjchin.wordpress.com/.
 - My recent project I have been working on in my personal time involves baseball statistics and Sabermetrics, which you can find [here](https://github.com/matthewjchin/baseballstats). More will be added soon with regards to different kinds of data science topics. 
