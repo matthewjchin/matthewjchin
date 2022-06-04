@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew! 
 - 👀 I’m interested in business analytics, data science and machine learning, and data visualization. 
-- 🌱 I’m currently learning [R](https://www.r-project.org/) and Python libraries such as [Keras](https://keras.io), [TensorFlow](https://www.tensorflow.org/), and [Scikit-learn](https://scikit-learn.org/).
+- 🌱 I’m currently learning [R](https://www.r-project.org/) and [Python](https://www.python.org/doc/) libraries such as [Keras](https://keras.io), [TensorFlow](https://www.tensorflow.org/), and [Scikit-learn](https://scikit-learn.org/).
 - 💞️ Currently looking for full-time opportunities in business analytics or analytics-focused data science.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/)! Happy to connect to share interests or opportunities. 
 - Follow me on Twitter [@matthewjchin](https://www.twitter.com/matthewjchin) and on Instagram [@matthewjchin](https://www.instagram.com/matthewjchin/). Check out my website at https://matthewjchin.wordpress.com/.
