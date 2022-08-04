@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matthew (he/him/his) 
+- 👋 Hi, I’m Matt (he/him)
 - 👀 I’m interested in business analytics, machine learning, risk management, and data visualization. 
 - 🌱 I’m currently learning [R](https://www.r-project.org/) and [Python](https://www.python.org/doc/) libraries such as [Keras](https://keras.io), [TensorFlow](https://www.tensorflow.org/), and [Scikit-learn](https://scikit-learn.org/).
 - 💞️ Currently looking for full-time opportunities in business analytics, data science, or any analytics-related opportunities.
