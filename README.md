@@ -12,3 +12,7 @@ I am currently a graduate student at [Golden Gate University](https://www.ggu.ed
 I graduated from the [University of San Francisco](https://www.usfca.edu/) with a BS in [Mathematics](https://www.usfca.edu/arts-sciences/undergraduate-programs/mathematics) and a minor in [Computer Science](https://www.usfca.edu/arts-sciences/undergraduate-programs/computer-science). 
 
 Hope you enjoy and follow along; always willing to learn and collaborate!
+
+
+Cheers,
+Matt
