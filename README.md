@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matt (he/him)
+- 👋 Hi, I’m Matt!
 - 👀 I’m interested in business analytics, machine learning, risk management, and data visualization. 
 - 🌱 I’m currently learning [R](https://www.r-project.org/) and [Python](https://www.python.org/doc/) libraries such as [Keras](https://keras.io), [TensorFlow](https://www.tensorflow.org/), and [Scikit-learn](https://scikit-learn.org/).
 - 💞️ Currently looking for full-time opportunities in business analytics, data science, or any analytics-related opportunities.
@@ -7,11 +7,11 @@
 - My recent project I have been working on in my personal time involves baseball statistics and Sabermetrics, which you can find [here](https://github.com/matthewjchin/baseballstats).
 - Other projects' details can be seen [at my website](https://matthewjchin.wordpress.com/personal-projects/) or in this repository.
 
-I am currently a graduate student at [Golden Gate University](https://www.ggu.edu/) in the [MS in Business Analytics program](https://www.ggu.edu/degrees-and-courses/business-analytics/master-of-science-in-business-analytics). 
-I graduated from the [University of San Francisco](https://www.usfca.edu/) with a BS in [Mathematics](https://www.usfca.edu/arts-sciences/undergraduate-programs/mathematics) and a minor in [Computer Science](https://www.usfca.edu/arts-sciences/undergraduate-programs/computer-science). 
+I am currently a graduate student at [Golden Gate University](https://www.ggu.edu/) in the [MS in Business Analytics program](https://www.ggu.edu/degrees-and-courses/business-analytics/master-of-science-in-business-analytics). In September 2022 I will begin my first full-time job as a Cybersecurity Intelligence Associate at Bank of the West. 
 
 Hope you enjoy and follow along; always willing to learn and collaborate!
 
 
 Cheers,
+
 Matt
