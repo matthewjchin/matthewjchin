@@ -7,7 +7,7 @@
 - My recent project I have been working on in my personal time involves baseball statistics and Sabermetrics, which you can find [here](https://github.com/matthewjchin/baseballstats).
 - Other projects' details can be seen [at my website](https://matthewjchin.wordpress.com/personal-projects/) or in this repository.
 
-I am currently a graduate student at [Golden Gate University](https://www.ggu.edu/) in the [MS in Business Analytics program](https://www.ggu.edu/degrees-and-courses/business-analytics/master-of-science-in-business-analytics). In September 2022 I will begin my first full-time job as a Cybersecurity Intelligence Associate at Bank of the West. 
+Currently a graduate student at [Golden Gate University](https://www.ggu.edu/) in the [MS in Business Analytics program](https://www.ggu.edu/degrees-and-courses/business-analytics/master-of-science-in-business-analytics). In September 2022 I will begin my first full-time job as a Cybersecurity Intelligence Associate at [Bank of the West](https://www.bankofthewest.com/). 
 
 Hope you enjoy and follow along; always willing to learn and collaborate!
 
