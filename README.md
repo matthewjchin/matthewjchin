@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matt!
 - 👀 I’m interested in business analytics, machine learning, risk management, and data visualization. 
 - 🌱 I’m currently learning [R](https://www.r-project.org/) and [Python](https://www.python.org/doc/) libraries such as [Keras](https://keras.io), [TensorFlow](https://www.tensorflow.org/), and [Scikit-learn](https://scikit-learn.org/).
-- 💞️ Currently looking for full-time opportunities in business analytics, data science, or any analytics-related opportunities.
+- 💞️ Hoping to build connections in the data science and big data communities. 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/).
 - Follow me on Twitter [@matthewjchin](https://www.twitter.com/matthewjchin) and on Instagram [@matthewjchin](https://www.instagram.com/matthewjchin/). You can also check out my [website](https://matthewjchin.wordpress.com/).
 - Latest project can be found [here](https://github.com/matthewjchin/baseballstats).
