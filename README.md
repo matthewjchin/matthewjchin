@@ -1,4 +1,7 @@
-Interests include machine learning, cybersecurity, and software engineering. Past work includes cybersecurity data analytics with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/). Also have worked with [Keras](https://keras.io/) and [Scikit-learn](https://scikit-learn.org/) in Python for deep learning algorithms and tools. 
+Interests include business analytics, data science, and software engineering, in no particular order. 
+Currently seeking employment in one of those fields. 
+
+Past work includes cybersecurity data analytics with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/). Also have worked with [Keras](https://keras.io/) and [Scikit-learn](https://scikit-learn.org/) in Python for deep learning algorithms and tools. 
 
 Hoping to build connections in the data science and big data analytics communities. 
 
@@ -17,4 +20,5 @@ Hope you enjoy and follow along; always willing to learn and collaborate!
 
 
 Best,
+
 Matt
