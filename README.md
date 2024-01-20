@@ -6,10 +6,10 @@ Past work includes cybersecurity data analytics with [Microsoft Power BI](https:
 Hoping to build connections in the data science and big data analytics communities. 
 
 Links to:
-- Personal [website](https://www.matthewjchin.com/)
+- [Personal website](https://www.matthewjchin.com/)
 - [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/)
-- Instagram: [@matthewjchin](https://www.instagram.com/matthewjchin/)
-- Threads:  [@matthewjchin](https://www.threads.net/@matthewjchin)
+- [Instagram: @matthewjchin](https://www.instagram.com/matthewjchin/)
+- [Threads: @matthewjchin](https://www.threads.net/@matthewjchin)
 
 
 Graduate of [University of San Francisco](https://www.usfca.edu/) with a Bachelor of Science degree in Mathematics and a minor in Computer Science. 
