@@ -3,6 +3,9 @@ Currently seeking employment in one of those fields.
 
 Past work includes cybersecurity data analytics with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/). Also have worked with [Keras](https://keras.io/) and [Scikit-learn](https://scikit-learn.org/) in Python for deep learning algorithms and tools. 
 
+One of my current projects that I am working on: [NBA Stats Lookup](https://github.com/matthewjchin/nbastatslookup), a web application that navigates NBA players' statistics using [NBA Stats](NBA.com/stats).
+
+
 Hoping to build connections in the data science and big data analytics communities. 
 
 Links to:
