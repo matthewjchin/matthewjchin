@@ -5,6 +5,7 @@ Past work includes cybersecurity data analytics with [Microsoft Power BI](https:
 
 One of my current projects that I am working on: [NBA Stats Lookup](https://github.com/matthewjchin/nbastatslookup), a web application that navigates NBA players' statistics using [NBA Stats](NBA.com/stats).
 
+Please also check out [Grocery Price Analysis](https://github.com/matthewjchin/grocerypriceanalysis), a walkthrough of exploratory data analysis and linear regression modeling on average prices of groceries over the last 25 years.
 
 Hoping to build connections in the data science and big data analytics communities. 
 
