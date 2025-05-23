@@ -13,7 +13,7 @@ Links to:
 - [Bluesky](https://bsky.app/profile/matthewjchin.bsky.social)
 
 
-Pursuing a Master of Science degree in Computer Science from the [University of Colorado, Boulder](https://www.colorado.edu/).
+Pursuing a Master of Science degree in Computer Science from the [University of Colorado, Boulder](https://www.colorado.edu/). Expected completion Summer 2026.
 
 Graduate of [University of San Francisco](https://www.usfca.edu/) with a Bachelor of Science degree in Mathematics and a minor in Computer Science. 
 Graduate of [Golden Gate University](https://www.ggu.edu/) with an Master of Science degree in Business Analytics. 
