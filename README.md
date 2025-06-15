@@ -1,9 +1,9 @@
 Interests include business analytics, data science, and software engineering, in no particular order. 
-Currently seeking employment in one of those fields. 
+Currently seeking employment opportunities in one of those fields. Former cybersecurity data analyst at BMO Bank N.A. and Bank of the West.  
 
 Past work includes cybersecurity data analytics with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/). Also have worked with [Keras](https://keras.io/) and [Scikit-learn](https://scikit-learn.org/) in Python for deep learning algorithms and tools. 
 
-Hoping to build connections in the data science and software development communities. 
+Hoping to build connections in the data science and software development communities! 
 
 Links to:
 - [Personal website](https://www.matthewjchin.com/)
