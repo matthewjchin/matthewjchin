@@ -1,5 +1,5 @@
 Interests include business analytics, deep learning, and app and software development. 
-Currently seeking full-time employment opportunities. 
+Currently seeking full-time employment opportunities as a machine learning reaesrcher or software engineer. 
 
 Past work includes cybersecurity data analytics with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/). Also have worked with [Keras](https://keras.io/) and [Scikit-learn](https://scikit-learn.org/) in Python for deep learning algorithms and tools. 
 
