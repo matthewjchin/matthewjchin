@@ -1,5 +1,5 @@
-Interests include business analytics, data science, and software engineering, in no particular order. 
-Currently seeking full-time employmene opportunities. Former cybersecurity data analyst at BMO Bank N.A. and Bank of the West.  
+Interests include business analytics, deep learning, and app and software development. 
+Currently seeking full-time employment opportunities. 
 
 Past work includes cybersecurity data analytics with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/). Also have worked with [Keras](https://keras.io/) and [Scikit-learn](https://scikit-learn.org/) in Python for deep learning algorithms and tools. 
 
