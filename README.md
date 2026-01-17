@@ -3,14 +3,7 @@ Currently seeking full-time employment opportunities as a machine learning reaes
 
 Past work includes cybersecurity data analytics with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/). Also have worked with [Keras](https://keras.io/) and [Scikit-learn](https://scikit-learn.org/) in Python for deep learning algorithms and tools. 
 
-Hoping to build connections in the data science and software development communities! 
-
-Links to:
-- [Personal website](https://www.matthewjchin.com/)
-- [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/)
-- [Instagram](https://www.instagram.com/matthewjchin/)
-- [Threads](https://www.threads.net/@matthewjchin)
-- [Bluesky](https://bsky.app/profile/matthewjchin.bsky.social)
+Current Project: [Budgeting Recommender](https://github.com/matthewjchin/budgeting-recommender), still in its early development stages but open to feedback as I get an interface going for this exciting product to eventually integrate AI to save you money!
 
 
 Pursuing a Master of Science degree in Computer Science from the [University of Colorado, Boulder](https://www.colorado.edu/). Expected completion August 2026.
@@ -25,3 +18,6 @@ Hope you enjoy and follow along!
 
 Best,
 Matt
+
+My Social Media:
+[Personal website](https://www.matthewjchin.com/) • [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/) • [Instagram]https://www.instagram.com/matthewjchin/) • [Threads](https://www.threads.net/@matthewjchin) • [Bluesky](https://bsky.app/profile/matthewjchin.bsky.social)
