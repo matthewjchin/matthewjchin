@@ -20,4 +20,4 @@ Best,
 Matt
 
 My Social Media:
-[Personal website](https://www.matthewjchin.com/) • [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/) • [Instagram]https://www.instagram.com/matthewjchin/) • [Threads](https://www.threads.net/@matthewjchin) • [Bluesky](https://bsky.app/profile/matthewjchin.bsky.social)
+[Personal website](https://www.matthewjchin.com/) • [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/) • [Instagram](https://www.instagram.com/matthewjchin/) • [Threads](https://www.threads.net/@matthewjchin) • [Bluesky](https://bsky.app/profile/matthewjchin.bsky.social)
