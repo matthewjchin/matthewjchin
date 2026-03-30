@@ -2,7 +2,7 @@ Currently seeking full-time employment opportunities as a business analyst, deep
 
 Past work includes cybersecurity data analytics with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/). Also have worked with [Keras](https://keras.io/) and [Scikit-learn](https://scikit-learn.org/) in Python for deep learning algorithms and tools. 
 <br>
-Current Projects: 
+Current Projects: <br>
 -[Budgeting Recommender](https://github.com/matthewjchin/budgeting-recommender), still in its early development stages but open to feedback as I get an interface going for this exciting product to eventually integrate AI to save you money!<br>
 -[Robotics Project](https://github.com/matthewjchin/smait-jackie-app)<br>
 
