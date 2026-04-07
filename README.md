@@ -1,4 +1,4 @@
-Currently seeking full-time employment opportunities as a business analyst, deep learning researcher, or software engineer. 
+Currently seeking full-time employment opportunities as a software engineer, business analyst, or data scientist.  
 
 Past work includes cybersecurity data analytics with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/). Also have worked with [Keras](https://keras.io/) and [Scikit-learn](https://scikit-learn.org/) in Python for deep learning algorithms and tools. 
 <br>
@@ -13,7 +13,7 @@ Graduate of [University of San Francisco](https://www.usfca.edu/) with a Bachelo
 Graduate of [Golden Gate University](https://www.ggu.edu/) with an Master of Science degree in Business Analytics.<br>
 Completed the [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) program through Coursera in [April 2024](https://coursera.org/verify/professional-cert/ZG26MAHQT4V8).<br>
 
-My website is matthewjchin.com.<br>
+My website is [matthewjchin.com](https://www.matthewjchin.com/), which has operated since June 2020.<br>
 Hope you enjoy and follow along!
 <br>
 
