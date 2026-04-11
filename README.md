@@ -13,7 +13,7 @@ Graduate of [University of San Francisco](https://www.usfca.edu/) with a Bachelo
 Graduate of [Golden Gate University](https://www.ggu.edu/) with an Master of Science degree in Business Analytics.<br>
 Completed the [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) program through Coursera in [April 2024](https://coursera.org/verify/professional-cert/ZG26MAHQT4V8).<br>
 
-My website is [matthewjchin.com](https://www.matthewjchin.com/), which has operated since June 2020.<br>
+My website is [matthewjchin.com](https://www.matthewjchin.com).<br>
 Hope you enjoy and follow along!
 <br>
 
