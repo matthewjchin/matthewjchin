@@ -17,5 +17,4 @@ My website is [matthewjchin.com](https://www.matthewjchin.com).<br>
 Hope you enjoy and follow along!
 <br>
 
-My Social Media:
-[Personal website](https://www.matthewjchin.com/) • [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/) • [Instagram](https://www.instagram.com/matthewjchin/) • [Threads](https://www.threads.net/@matthewjchin) • [Bluesky](https://bsky.app/profile/matthewjchin.bsky.social)
+[matthewjchin,com](https://www.matthewjchin.com/) • [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/) • [Instagram](https://www.instagram.com/matthewjchin/) • [Threads](https://www.threads.net/@matthewjchin) • [Bluesky](https://bsky.app/profile/matthewjchin.bsky.social)
