@@ -4,7 +4,7 @@ Past work includes cybersecurity data analytics with [Microsoft Power BI](https:
 <br>
 Current Projects: <br>
 -[Budgeting Recommender](https://github.com/matthewjchin/budgeting-recommender), still in its early development stages but open to feedback as I get a Streamlit interface going for this exciting product to eventually integrate AI to save you money!<br>
--[Robotics Project](https://github.com/matthewjchin/smait-jackie-app) -  working with moving a robot<br>
+-[Robotics Project](https://github.com/matthewjchin/smait-jackie-app) -  working with moving a [robot](https://github.com/harrey401/jackie-tracking) to get it to move<br>
 
 
 Pursuing a Master of Science degree in Computer Science from the [University of Colorado, Boulder](https://www.colorado.edu/). Completing in August 2026.
