@@ -1,10 +1,9 @@
 Currently seeking full-time employment opportunities as a software engineer, business analyst, or data scientist.  
 
-Past work includes cybersecurity data analytics with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/). Also have worked with [Keras](https://keras.io/) and [Scikit-learn](https://scikit-learn.org/) in Python for deep learning algorithms and tools. 
+Expert with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Keras](https://keras.io/), and [Scikit-learn](https://scikit-learn.org/) in Python for deep learning algorithms and tools. 
 <br>
 Current Projects: <br>
 -[Budgeting Recommender](https://github.com/matthewjchin/budgeting-recommender), still in its early development stages but open to feedback as I get a Streamlit interface going for this exciting product to eventually integrate AI to save you money!<br>
--[Robotics Project](https://github.com/matthewjchin/smait-jackie-app) -  working with moving a [robot](https://github.com/harrey401/jackie-tracking) to get it to move<br>
 
 
 Pursuing a Master of Science degree in Computer Science from the [University of Colorado, Boulder](https://www.colorado.edu/). Completing in August 2026.
