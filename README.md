@@ -11,7 +11,12 @@ Graduate of the [University of San Francisco](https://www.usfca.edu/) with a BS 
 Graduate of [Golden Gate University](https://www.ggu.edu/) with an MS degree in Business Analytics.<br>
 Graduate of the [University of Colorado, Boulder](https://www.colorado.edu/) with a MS in Computer Science August 2026.<br>
 
-Hope you enjoy and follow along!
 <br>
 
-[matthewjchin.com](https://www.matthewjchin.com/) • [LinkedIn](https://www.linkedin.com/in/matthew-j-chin/) • [Instagram](https://www.instagram.com/matthewjchin/) • [Threads](https://www.threads.net/@matthewjchin) • [Bluesky](https://bsky.app/profile/matthewjchin.bsky.social)
+[matthewjchin.com](https://www.matthewjchin.com/) <br>
+[LinkedIn](https://www.linkedin.com/in/matthew-j-chin/) <br>
+[Instagram](https://www.instagram.com/matthewjchin/) <br>
+[Threads](https://www.threads.net/@matthewjchin) <br>
+[Bluesky](https://bsky.app/profile/matthewjchin.bsky.social) <br>
+
+
