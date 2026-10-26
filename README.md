@@ -1,7 +1,8 @@
-Currently seeking full-time employment opportunities as a software engineer or business analyst. 
+Software engineer and business analyst based out of the San Francisco Bay Area, California. 
 
 Expert with [Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Keras](https://keras.io/), and [Scikit-learn](https://scikit-learn.org/) in Python for deep learning algorithms and tools. 
 <br>
+
 Current Projects: <br>
 -[Budgeting Recommender](https://github.com/matthewjchin/budgeting-recommender), still in its early development stages but open to feedback as I get an interface going for this exciting product to eventually integrate AI to save you money!<br>
 
